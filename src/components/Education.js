@@ -26,9 +26,9 @@ class Education extends React.Component {
                         </Col>
                         <Col className="py-2" md={8}>
                             <h4>University of North Texas</h4>
-                            <h6>Bachelor of Science, Computer Science, minor in Mathematics</h6>
+                            <h6>Bachelor of Science in Computer Science, minor in Mathematics</h6>
                             <ul>
-                                < li > < a href = "https://cics.unt.edu/content/cse-cyber-defense-team-qualifies-2013-southwest-regional-ccdc" > 2013 UNT CSE Cyber Defense Team Member < /a></li >
+                                <li><a href="https://cics.unt.edu/content/cse-cyber-defense-team-qualifies-2013-southwest-regional-ccdc">2013 UNT CSE Cyber Defense Team Member</a></li>
                                 <li><a href="https://students.googleblog.com/2011/05/announcing-2011-google-hispanic-college.html">2011 Google Scholar</a></li>
                                 <li>2009 Verizon Scholar</li>
                             </ul>
