@@ -28,10 +28,9 @@ class Education extends React.Component {
                             <h4>University of North Texas</h4>
                             <h6>Bachelor of Science, Computer Science, minor in Mathematics</h6>
                             <ul>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                                <li>Aenean at metus maximus, venenatis est in, venenatis nisi.</li>
-                                <li>Donec accumsan metus consequat turpis tempor blandit.</li>
-                                <li>Suspendisse quis nisl ac sem ullamcorper consequat.</li>
+                                < li > < a href = "https://cics.unt.edu/content/cse-cyber-defense-team-qualifies-2013-southwest-regional-ccdc" > 2013 UNT CSE Cyber Defense Team Member < /a></li >
+                                <li><a href="https://students.googleblog.com/2011/05/announcing-2011-google-hispanic-college.html">2011 Google Scholar</a></li>
+                                <li>2009 Verizon Scholar</li>
                             </ul>
                         </Col>
                     </Row>

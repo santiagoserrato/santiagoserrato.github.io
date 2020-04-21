@@ -32,13 +32,16 @@ class WorkExperience extends React.Component {
                             </p>
 
                             <h5>Software Development Team Lead</h5>
-                            <h6>Addison, Texas, United States, March 2018 – Present</h6>
+                            <h6>Plano, Texas, United States, March 2018 – Present</h6>
                             <ul>
-                                <li>Nunc mollis sapien condimentum euismod auctor.</li>
-                                <li>Sed ut sapien tincidunt, pretium arcu vel, hendrerit urna.</li>
-                                <li>Nulla id sapien interdum nulla dictum tristique.</li>
-                                <li>Proin tincidunt turpis eget condimentum sollicitudin.</li>
-                                <li>Sed rhoncus velit sed orci ullamcorper luctus.</li>
+                                <li>Supported and maintained Stream’s Customer Information System for Texas (CIS1)</li>
+                                <li>Led a team of 2 developers; this consisted on planning iterations, estimating LOEs, holding weekly code review sessions, and mentoring team on best practices/standards to produce quality/maintainable code</li>
+                                <li>Migrated 400k accounts from Stream to NRG’s system; this involved creating migration jobs utilizing Bash/PHP/MySQL and developing database views/stored procedures to retrieve historical customer data</li>
+                                <li>Led team on initiative to upgrade system PHP version from 5.2.x to 5.4.x</li>
+                                <li>Developed REST and SOAP APIs to provide customer information to Interactive Voice Response (IVR) System using .NET/PHP</li>
+                                <li>Added support for Free Nights and Free Weekends offerings; this consisted on updating CIS1 billing engine, product offering API, and web UI used by back office for telephonic enrollments/renewals</li>
+                                <li>Assisted with data analysis using Azure SQL DB and MySQL</li>
+                                <li>Used Visual Studio Azure DevOps for iterations/sprints and followed agile/scrum methodologies</li>
                             </ul>
                         </Col>
                     </Row>
@@ -54,33 +57,33 @@ class WorkExperience extends React.Component {
                             </p>
 
                             <h5>Senior Software Developer</h5>
-                            <h6>Dallas, Texas, United States, March 2016 – March 2018</h6>
+                            <h6>Addision, Texas, United States, March 2016 – March 2018</h6>
                             <ul>
-                                <li>Nunc mollis sapien condimentum euismod auctor.</li>
-                                <li>Sed ut sapien tincidunt, pretium arcu vel, hendrerit urna.</li>
-                                <li>Nulla id sapien interdum nulla dictum tristique.</li>
-                                <li>Proin tincidunt turpis eget condimentum sollicitudin.</li>
-                                <li>Sed rhoncus velit sed orci ullamcorper luctus.</li>
+                                <li>Supported and maintained Stream’s Customer Information System for Texas (CIS1)</li>
+                                <li>Created web UI for back office to manage carbon offset offering using CSS/Javascript/jQuery</li>
+                                <li>Integrated SmartyStreets REST API into CIS1 for address validation</li>
+                                <li>Integrated SalesForce Marketing Cloud SOAP API into CIS1 to trigger/send emails</li>
+                                <li>Integrated CyberGroup REST API into CIS1 to retrieve Weekly Energy Reports emailed to customers</li>
+                                <li>Developed job to clean/redact sensitive information from customer data using PHP</li>
                             </ul>
 
 
                             <h5>Software Developer II</h5>
                             <h6>Dallas, Texas, United States, March 2015 – March 2016</h6>
                             <ul>
-                                <li>Nunc mollis sapien condimentum euismod auctor.</li>
-                                <li>Sed ut sapien tincidunt, pretium arcu vel, hendrerit urna.</li>
-                                <li>Nulla id sapien interdum nulla dictum tristique.</li>
-                                <li>Proin tincidunt turpis eget condimentum sollicitudin.</li>
-                                <li>Sed rhoncus velit sed orci ullamcorper luctus.</li>
+                                <li>Supported and maintained Stream’s Customer Information System for Texas (CIS1)</li>
+                                <li>Created web UI for call center to manage protections for various billing fees using CSS/Javascript/JQuery</li>
+                                <li>Developed a nightly batch job for Wholesale Forecasting (Energy Buying Estimation) using PHP</li>
+                                <li>Created job to assess customers leaving platform for early termination fee using PHP</li>
                             </ul>
 
 
                             <h5>Software Developer I</h5>
                             <h6>Dallas, Texas, United States, Aug 2013 – March 2015</h6>
                             <ul>
-                                <li>Nunc mollis sapien condimentum euismod auctor.</li>
-                                <li>Sed ut sapien tincidunt, pretium arcu vel, hendrerit urna.</li>
-                                <li>Nulla id sapien interdum nulla dictum tristique.</li>
+                                <li>Supported and maintained Stream’s Customer Information System for Texas (CIS1)</li>
+                                <li>Worked bugs and UI enhancements assigned by team lead</li>
+                                <li>Created web UI for finance team to manage customers eligible to send to collections using CSS/Javascript/JQuery</li>
                             </ul>
                         </Col>
                     </Row>
@@ -98,9 +101,8 @@ class WorkExperience extends React.Component {
                             <h5>Software Developer Intern</h5>
                             <h6>Denton, Texas, United States, May 2013 – Aug 2013</h6>
                             <ul>
-                                <li>Nunc mollis sapien condimentum euismod auctor.</li>
-                                <li>Sed ut sapien tincidunt, pretium arcu vel, hendrerit urna.</li>
-                                <li>Nulla id sapien interdum nulla dictum tristique.</li>
+                                <li>Converted the Office of Sustainability’s website from static HTML to Drupal content management system</li>
+                                <li>Designed sustainability t-shirt, which was printed on 10,000+ shirts and given to students at the UNT Earth Day Campus Festival</li>
                             </ul>
                         </Col>
                     </Row>
