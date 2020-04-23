@@ -14,7 +14,10 @@ class AboutMe extends React.Component {
                 <Container>
                     <h1>About Me</h1>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue augue vel urna blandit, at ornare lorem viverra. Morbi sollicitudin metus dui, vitae ornare diam maximus in. Integer eget turpis id diam rutrum luctus. Fusce dolor lorem, mollis in ipsum vel, lacinia maximus libero. Morbi euismod vestibulum dignissim. Curabitur lectus nunc, eleifend elementum nunc id, ornare consequat risus. Fusce id massa sit amet nibh imperdiet porttitor. Ut sit amet rutrum magna, id convallis neque.
+                        Software developer with strong mentoring, communication, documentation and organizational skills. Experience with PHP, Javascript, .Net, C/C++, Java, React, jQuery, Bootstrap, HTML/CSS, MySQL, SQL, JSON, XML, and Linux CLI. Interested in growing my career as a full-stack developer.
+                    </p>
+                    <p>
+                        This website was built with React and Bootstrap to display side projects and my resume in a more aesthetically pleasing way. If you would like to view a more traditional version of my resume, please click here to view.
                     </p>
                     <div className="d-xs-block d-sm-block d-md-block d-lg-none pt-5">
                         <a href="https://www.linkedin.com/in/santiagoserrato/"target="__blank"><LinkedInIcon className="mr-4" fill='#333' width='3rem'height='3rem' /></a>
