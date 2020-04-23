@@ -23,7 +23,7 @@ class Introduction extends React.Component {
               <Row>
                 <Col>
                   <h1 className="display-4">Santiago Serrato</h1>
-                  <p>Software Developer based in Dallas, TX</p>
+                  <p>Software Developer from Dallas, TX</p>
                 </Col>
               </Row>
             </Container>
