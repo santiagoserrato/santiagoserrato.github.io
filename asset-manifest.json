@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.ebd43d67.chunk.css",
-    "main.js": "/static/js/main.288d9f12.chunk.js",
-    "main.js.map": "/static/js/main.288d9f12.chunk.js.map",
+    "main.js": "/static/js/main.de359cd6.chunk.js",
+    "main.js.map": "/static/js/main.de359cd6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6a36e423.js",
     "runtime-main.js.map": "/static/js/runtime-main.6a36e423.js.map",
     "static/css/2.69121389.chunk.css": "/static/css/2.69121389.chunk.css",
-    "static/js/2.adc4a001.chunk.js": "/static/js/2.adc4a001.chunk.js",
-    "static/js/2.adc4a001.chunk.js.map": "/static/js/2.adc4a001.chunk.js.map",
+    "static/js/2.c443c3d2.chunk.js": "/static/js/2.c443c3d2.chunk.js",
+    "static/js/2.c443c3d2.chunk.js.map": "/static/js/2.c443c3d2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a51d6524106d7a8ddbe4e69e3dac403e.js": "/precache-manifest.a51d6524106d7a8ddbe4e69e3dac403e.js",
+    "precache-manifest.8b8a01bff040b59be2ba949ffd82b34f.js": "/precache-manifest.8b8a01bff040b59be2ba949ffd82b34f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/static/css/2.69121389.chunk.css.map",
     "static/css/main.ebd43d67.chunk.css.map": "/static/css/main.ebd43d67.chunk.css.map",
-    "static/js/2.adc4a001.chunk.js.LICENSE.txt": "/static/js/2.adc4a001.chunk.js.LICENSE.txt",
+    "static/js/2.c443c3d2.chunk.js.LICENSE.txt": "/static/js/2.c443c3d2.chunk.js.LICENSE.txt",
     "static/media/emailIcon.4082623a.svg": "/static/media/emailIcon.4082623a.svg",
     "static/media/gitHubIcon.647be3b7.svg": "/static/media/gitHubIcon.647be3b7.svg",
     "static/media/linkedInIcon.8cc2d3a8.svg": "/static/media/linkedInIcon.8cc2d3a8.svg",
     "static/media/logo.481b4bf6.svg": "/static/media/logo.481b4bf6.svg",
+    "static/media/resume.pdf": "/static/media/resume.cd380cb8.pdf",
     "static/media/santiago.jpg": "/static/media/santiago.00ef514a.jpg",
     "static/media/streamLogo.png": "/static/media/streamLogo.d20a0344.png",
     "static/media/untLogo.png": "/static/media/untLogo.e9fa6440.png",
@@ -26,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a36e423.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.adc4a001.chunk.js",
+    "static/js/2.c443c3d2.chunk.js",
     "static/css/main.ebd43d67.chunk.css",
-    "static/js/main.288d9f12.chunk.js"
+    "static/js/main.de359cd6.chunk.js"
   ]
 }
