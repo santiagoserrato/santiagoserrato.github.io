@@ -36,8 +36,6 @@ class Navigation extends React.Component {
                     <NavDropdown.Item href="#action/3.5">Software Developer Intern</NavDropdown.Item>
                   </NavDropdown>
                   <Nav.Link href="#education">Education</Nav.Link>
-                  <Nav.Link href="#skills">Skills</Nav.Link>
-                  <Nav.Link href="#playground">Playground</Nav.Link>
                 </Nav>
                 <Navbar.Text className="d-none d-lg-block">
                   <a href="https://www.linkedin.com/in/santiagoserrato/"target="__blank"><LinkedInIcon className="px-1" fill='#333' width='3rem'height='2rem' /></a>
