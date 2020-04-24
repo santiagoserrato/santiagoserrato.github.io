@@ -2,7 +2,6 @@ import React from 'react';
 
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-import NavDropdown from 'react-bootstrap/NavDropdown';
 import Container from 'react-bootstrap/Container';
 import {ReactComponent as Logo} from './../assets/images/logo.svg';
 
@@ -23,18 +22,7 @@ class Navigation extends React.Component {
                 <Nav className="mr-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
                   <Nav.Link href="#aboutMe">About Me</Nav.Link>
-                  <NavDropdown title="Work Experience" id="basic-nav-dropdown">
-                    <NavDropdown.Header><h5>NRG Energy</h5></NavDropdown.Header>
-                    <NavDropdown.Item href="#action/3.1">Software Development Team Lead</NavDropdown.Item>
-                    <NavDropdown.Divider />
-                    <NavDropdown.Header><h5>Stream Energy</h5></NavDropdown.Header>
-                    <NavDropdown.Item href="#action/3.2">Senior Software Developer</NavDropdown.Item>
-                    <NavDropdown.Item href="#action/3.3">Software Developer II</NavDropdown.Item>
-                    <NavDropdown.Item href="#action/3.4">Software Developer I</NavDropdown.Item>
-                    <NavDropdown.Divider />
-                    <NavDropdown.Header><h5>UNT Office of Sustainability</h5></NavDropdown.Header>
-                    <NavDropdown.Item href="#action/3.5">Software Developer Intern</NavDropdown.Item>
-                  </NavDropdown>
+                  <Nav.Link href="#experience">Work Experience</Nav.Link>
                   <Nav.Link href="#education">Education</Nav.Link>
                 </Nav>
                 <Navbar.Text className="d-none d-lg-block">
