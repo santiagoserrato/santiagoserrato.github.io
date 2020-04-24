@@ -15,7 +15,7 @@ class AboutMe extends React.Component {
                 <Container>
                     <h1>About Me</h1>
                     <p>
-                        Software developer with strong mentoring, communication, documentation and organizational skills. Experience with PHP, Javascript, .Net, C/C++, Java, React, jQuery, Bootstrap, HTML/CSS, MySQL, SQL, JSON, XML, and Linux CLI. Interested in growing my career as a full-stack developer.
+                        Software Developer with strong mentoring, communication, documentation and organizational skills. Experience with PHP, Javascript, .Net, C/C++, Java, React, jQuery, Bootstrap, HTML/CSS, MySQL, SQL, JSON, XML, and Linux CLI. Interested in Full-Stack Developer opportunities.
                     </p>
                     <p>
                         This website was built with React and Bootstrap to display side projects and my resume in a more aesthetically pleasing way. If you would like to view a more traditional version of my resume, please <a href={resume} target="__blank">click here</a> to view.
