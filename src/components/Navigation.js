@@ -24,6 +24,7 @@ class Navigation extends React.Component {
                   <Nav.Link href="#aboutMe">About Me</Nav.Link>
                   <Nav.Link href="#experience">Work Experience</Nav.Link>
                   <Nav.Link href="#education">Education</Nav.Link>
+                  <Nav.Link href="#projects">Projects</Nav.Link>
                 </Nav>
                 <Navbar.Text className="d-none d-lg-block">
                   <a href="https://www.linkedin.com/in/santiagoserrato/"target="__blank"><LinkedInIcon className="px-1" fill='#333' width='3rem'height='2rem' /></a>
