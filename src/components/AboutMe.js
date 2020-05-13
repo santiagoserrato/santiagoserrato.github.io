@@ -18,7 +18,7 @@ class AboutMe extends React.Component {
                         Software Developer with strong mentoring, communication, documentation and organizational skills. Experience with PHP, Javascript, .Net, C/C++, Java, React, jQuery, Bootstrap, HTML/CSS, MySQL, SQL, JSON, XML, and Linux CLI. Interested in Full-Stack Developer opportunities.
                     </p>
                     <p>
-                        This website was built with React and Bootstrap to display side projects and my resume in a more aesthetically pleasing way. If you would like to view a more traditional version of my resume, please <a href={resume} target="__blank">click here</a> to view.
+                        This website was built to display side projects and my resume in a more aesthetically pleasing way. If you would like to view a more traditional version of my resume, <a href={resume} target="__blank">click here</a>. If you are interested in the code for this site, I used React and Bootstrap. The code is available <a href="https://github.com/santiagoserrato/santiagoserrato.github.io" target="__blank">here</a> in my GitHub account.
                     </p>
                     <div className="d-xs-block d-sm-block d-md-block d-lg-none pt-5">
                         <a href="https://www.linkedin.com/in/santiagoserrato/"target="__blank"><LinkedInIcon className="mr-4" fill='#333' width='3rem'height='3rem' /></a>
