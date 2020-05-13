@@ -40,7 +40,7 @@ class Projects extends React.Component {
             transform: "translate(-50%, -50%)",
             padding: "10px"
         };
-
+        // Company develops HR & Payroll Software.
         return (
             <Jumbotron id="projects" fluid className='mb-0' style={{backgroundColor: '#f1f1f1'}}>
                 <Container>
@@ -52,13 +52,15 @@ class Projects extends React.Component {
                     </Row>
                     
                     <Row className="py-2">
-                        <Col className="py-2">
-                            <a href="#demoComingSoon">
+                        <Col className="py-2" md={6}>
                             <div style={{position: "relative", textAlign: "center"}} onMouseEnter={this.toggleIsHovering} onMouseLeave={this.toggleIsHovering}>
-                                <Image src={todoListPreview} className="img-fluid px-4" style={this.state.isHovering ? imageHoverStyle : imageStyle} />
-                                <Button variant="primary" style={this.state.isHovering ? buttonHoverStyle : buttonStyle}>Demo Coming Soon</Button>
+                                <a href="#demoComingSoon">
+                                    <Image src={todoListPreview} className="img-fluid px-4" style={this.state.isHovering ? imageHoverStyle : imageStyle} />
+                                    <Button variant="primary" style={this.state.isHovering ? buttonHoverStyle : buttonStyle}>Demo Coming Soon</Button>
+                                </a>
                             </div>
-                            </a>
+                        </Col>
+                        <Col className="py-2" md={6}>
                         </Col>
                     </Row>
 
